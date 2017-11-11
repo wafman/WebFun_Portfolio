@@ -1,0 +1,238 @@
+* {
+    width: 970px;
+    margin: 0px;
+}
+
+body {
+    width: 970px;
+    background-color: rgba(10, 10, 10, 0.685);
+}
+
+header {
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.884);
+    width: 970px;
+    height: 50px;
+}
+
+header h1 {
+    display: inline-block;
+    padding-top: 10px;
+    margin: 0px 280px 0px 0px;
+    width: 300px;
+    padding: 0px 0px 10px 15px;
+}
+
+header h3 {
+    display: inline-block;
+    margin: 0px;
+    width: 300px;   
+    vertical-align: top;
+    padding-top: 10px;
+}
+
+#profile_pic {
+    display: inline-block;
+    border: 5px solid gray;
+    width: 455px;
+    height: 267px;
+    margin: 0px 5px 0px;
+}
+
+.text {
+    display: inline-block;
+    width: 950px;
+    margin: 20px 10px;
+
+}
+
+.text div {
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.774);
+    vertical-align: top;
+    width: 456px;
+    height: 247px;
+    margin-left: 10px;
+    padding-bottom: 30px;
+
+}
+
+.text h2 {
+    width: 446px;
+    margin: 0px;
+    background-color: gray;
+    color: white;
+    padding: 10px 0px 10px 10px;
+    vertical-align: top;
+    margin-bottom: 10px;
+}
+
+.text p {
+    width: 435px;
+    margin: 15px 10px;
+}
+
+.text a {
+    margin: 5px 0px;
+    padding-left: 10px;
+}
+
+.projects {
+    display: inline-block;
+    width: 950px;
+    margin: 0px 10px 20px;
+}
+
+#bus_logo {
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.la_mode {
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.774);
+    width: 300px;
+    margin: 0px 5px 0px 5px;
+}
+
+.la_mode h2 {
+    width: 290px;
+    background-color: gray;
+    color: white;
+    margin: 0px;
+    padding: 10px 0px 10px 10px;
+}
+
+.la_mode p {
+    width: 290px;
+    margin: 0px 10px 70px;
+    font-size: 16px;
+}
+
+.la_mode img {
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+    margin: 0px 5px;
+}
+
+.la_mode div {
+    width: 300px;
+    margin: 10px 0px;
+}
+
+.la_mode button {
+    width: 80px;
+    border-radius: 25px;
+    margin: 0px 113px 20px;
+    background-color: rgb(54, 134, 108);
+    color: white;
+}
+
+.family_contacts {
+    background-color: rgba(255, 255, 255, 0.774);
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    margin: 0px 5px 0px 10px;
+}
+
+.family_contacts h2 {
+    width: 290px;
+    background-color: gray;
+    color: white;
+    margin: 0px;
+    padding: 10px 0px 10px 10px;
+}
+
+.family_contacts p {
+    width: 290px;
+    margin: 0px 10px 51px;
+    font-size: 16px;
+}
+
+.family_contacts img {
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+    margin: 0px 5px;
+}
+
+.family_contacts div {
+    width: 300px;
+    margin: 10px 0px;
+}
+
+.family_contacts button {
+    width: 114px;
+    border-radius: 25px;
+    margin: 0px 88px 20px;
+    background-color: rgb(54, 134, 108);
+    color: white;
+}
+
+.five_eleven {
+    background-color: rgba(255, 255, 255, 0.774);
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    margin: 0px 0px 0px 10px;
+}
+
+.five_eleven h2 {
+    width: 290px;
+    background-color: gray;
+    color: white;
+    margin: 0px;
+    padding: 10px 0px 10px 10px;
+}
+
+.five_eleven p {
+    width: 290px;
+    margin: 0px 10px 15px;
+    font-size: 16px;
+}
+
+.five_eleven img {
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+    margin: 0px 5px;
+}
+
+.five_eleven div {
+    width: 300px;
+    margin: 10px 0px;
+}
+
+.five_eleven button {
+    width: 80px;
+    border-radius: 25px;
+    margin: 0px 113px 20px;
+    background-color: rgb(54, 134, 108);
+    color: white;
+}
+
+footer {
+    width: 970px;
+    background-color: rgba(255, 255, 255, 0.884);
+}
+
+footer p {
+    width: 220px;
+    padding: 0px 375px;
+    margin: 10px 0px;
+}
+
+footer div {
+    width: 350px;
+    padding: 0px 310px 15px;
+}
+
+footer img {
+    width: 20px;
+    height: 20px;
+}
